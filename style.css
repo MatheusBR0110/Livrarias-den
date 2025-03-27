@@ -15,3 +15,42 @@ header{
     display: block;
     margin: 0 auto;
 }
+.principal{
+    background-color: #FF4000;
+    padding: 80px;
+    text-align: center;
+}
+.titulo-centralizado{
+    text-align: center;
+    font-size: 50px;
+    padding: 30px;
+}
+.diferencial{
+    background-color: #FF4000;
+    padding: 30px;
+    margin: 200px 0 0 0;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    max-width: 20%;
+    padding: 15px;
+}
+.rodape{
+    background-color: #FF4000;
+    height: 100%;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.itens{
+    padding: 15px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+    padding: 17px;
+}
